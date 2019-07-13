@@ -8,12 +8,12 @@ public class Validacion {
                 + "de prueba previo a  dddddd"
                 + "cambiar a una mejor ewewe "
                 + "contrasena en menos "
-                + "de 90 dias";
+                + "de 90 dias"
                 + "Jhampierr estuvo aqui"
                 + "Pray for Alonso"
                 + "seleccionado, no olvide cambiar "
                 + "su contrasena en menos "
-                + "de 90 dias";;
+                + "de 90 dias";
         return msg;
     }
 }
