@@ -10,11 +10,11 @@ public class Validacion {
                 + "cambiar a una mejor ewewe "
                 + "contrasena en menos "
                 + "de 90 dias"
+                + "Jhampierr estuvo aqui"
                 + "Jhampierr estuvo aqui 2"
                 + "Pray for Alonso"
-                + "seleccionado, no olvide cambiar "
                 + "su contrasena en menos "
-                + "de 90 dias";
+                + "de 80 dias";
         return msg;
     }
 }
